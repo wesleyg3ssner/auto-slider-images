@@ -1,6 +1,6 @@
 # Automatic Image Slider
 
-![Slider]("./assets/slider.gif")
+![Slider](./assets/slider.gif)
 ---
 
 Techs
